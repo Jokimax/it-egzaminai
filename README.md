@@ -5,7 +5,7 @@ Kolkas išspręstos 2017m-2023m užduotis
 Sukompiliuoti python kalbos programoms reikia naujausios [Python](https://www.python.org/) versijos<br>
 Sukompiliuoti C++ kalbos programoms reikia C++ kompiliatoriaus<br>
 Keli populiarus pasirinkimai<br>
-[GCC](https://gcc.gnu.org/) [Clang](https://clang.llvm.org/) [Visual Studio Compiler](https://visualstudio.microsoft.com/vs/features/cplusplus/)
+[GCC](https://gcc.gnu.org/)          [Clang](https://clang.llvm.org/)          [VisualStudioCompiler](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 # Sprendimai
 |Metai|Užduotys|C++|Python|
 |-|-|-|-|
