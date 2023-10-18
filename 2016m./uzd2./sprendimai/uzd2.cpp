@@ -43,7 +43,7 @@ int main() {
     int n;
     data >> n;
 
-    data.ignore();  // Consume the newline
+    data.ignore();
 
     for (int i = 0; i < n; ++i) {
         string exerciseData;
