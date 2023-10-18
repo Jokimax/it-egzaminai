@@ -1,6 +1,6 @@
 # IT-Egzaminai
 It egzamino užduočių sprendimai C++ ir Python kalbomis<br>
-Kolkas išspręstos 2017m-2023m užduotis
+Kolkas išspręstos 2016m-2023m užduotis
 ## Kompiliavimas
 Sukompiliuoti python kalbos programoms reikia naujausios [Python](https://www.python.org/) versijos<br>
 Sukompiliuoti C++ kalbos programoms reikia C++ kompiliatoriaus<br>
@@ -18,7 +18,7 @@ Keli populiarus pasirinkimai<br>
 |2019 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/02/8018_IT-VBE-1_2019.pdf)|[Užduotis 1](2019m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2019m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2019m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2019m./uzd2./sprendimai/uzd2.py)|
 |2018 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/7417_IT-VBE-1_2018-GALUTINE.pdf)|[Užduotis 1](2018m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2018m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2018m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2018m./uzd2./sprendimai/uzd2.py)|
 |2017 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/6996_IT-VBE-1_2017-GALUTINE.pdf)|[Užduotis 1](2017m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2017m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2017m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2017m./uzd2./sprendimai/uzd2.py)|
-|2016 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/6287_IT-VBE-1_2016-GALUTINIS.pdf)|||
+|2016 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/6287_IT-VBE-1_2016-GALUTINIS.pdf)|[Užduotis 1](2016m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2016m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2016m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2016m./uzd2./sprendimai/uzd2.py)|
 |2015 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/5256_IT-VBE-1_2015.pdf)|||
 |2014 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/4429_2014-IT-VBE.pdf)|||
 |2013 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/3679_2013-IT-1-uzd-intern.pdf)|||
