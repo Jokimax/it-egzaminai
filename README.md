@@ -23,7 +23,7 @@ Keli populiarus pasirinkimai<br>
 |2014 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/4429_2014-IT-VBE.pdf)|[Užduotis 1](2014m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2014m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2014m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2014m./uzd2./sprendimai/uzd2.py)|
 |2013 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/3679_2013-IT-1-uzd-intern.pdf)|[Užduotis 1](2013m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2013m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2013m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2013m./uzd2./sprendimai/uzd2.py)|
 |2012 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/2730_IT-1-2012.pdf)|[Užduotis 1](2012m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2012m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2012m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2012m./uzd2./sprendimai/uzd2.py)|
-|2011 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/2062_IT-VBE-1_2011.pdf)|||
+|2011 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/03/2062_IT-VBE-1_2011.pdf)|[Užduotis 1](2011m./uzd1./sprendimai/uzd1.cpp)<br>[Užduotis 2](2011m./uzd2./sprendimai/uzd2.cpp)|[Užduotis 1](2011m./uzd1./sprendimai/uzd1.py)<br>[Užduotis 2](2011m./uzd2./sprendimai/uzd2.py)|
 |2010 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/04/1602_IT-pagr-2010.pdf)|||
 |2009 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/04/1044_uzduotys_2009_VBE_inf_technol.pdf)|||
 |2008 m.|[Užduotys](https://www.nsa.smm.lt/wp-content/uploads/2021/04/511_uzduotys_2008_VBE_IT.pdf)|||
